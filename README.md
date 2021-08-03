@@ -1,6 +1,6 @@
 # Welcome! I am Vinícius Führ de Borba
 
-- 💪 I’m currently working on <a href="http://www.tgwsistemas.com.br/">TGW Sistemas</a>
+- 💪 I’m currently working on <a href="https://www.tgwsistemas.com.br/">TGW Sistemas</a>
 - 📚 I’m currently learning ReactJS
 - ✉ How to reach me: vinicius_fuhr-borba@estudante.sc.senai.br
 
