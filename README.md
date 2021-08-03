@@ -5,7 +5,6 @@
 - ✉ How to reach me: vinicius_fuhr-borba@estudante.sc.senai.br
 
 <div>
-  <a href="https://github.com/ViniciusFuhrBorba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusFuhrBorba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFuhrBorba&layout=compact&langs_count=7&theme=dark"/>
 </div>
