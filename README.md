@@ -2,7 +2,7 @@
 
 - 💪 I’m currently working on <a href="https://www.tgwsistemas.com.br/">TGW Sistemas</a>
 - 📚 I’m currently learning ReactJS
-- ✉ How to reach me: vinicius_fuhr-borba@estudante.sc.senai.br
+- ✉ How to reach me: vinicius_fuhr-borba@outlook.com
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusFuhrBorba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
